@@ -1,7 +1,7 @@
 {
   "name": "recipes",
   "version": "0.1.0",
-  "homepage": "https://github.com/Bouaabdellah/Recipes-React-App.git",
+  "homepage": "https://bouaabdellah.github.io/Recipes-React-App/",
   "private": true,
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
