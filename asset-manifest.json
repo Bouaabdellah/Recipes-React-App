@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bouaabdellah/Recipes-React-App.git/static/css/main.8df81e89.css",
+    "main.js": "/Bouaabdellah/Recipes-React-App.git/static/js/main.c2b458cf.js",
+    "index.html": "/Bouaabdellah/Recipes-React-App.git/index.html",
+    "main.8df81e89.css.map": "/Bouaabdellah/Recipes-React-App.git/static/css/main.8df81e89.css.map",
+    "main.c2b458cf.js.map": "/Bouaabdellah/Recipes-React-App.git/static/js/main.c2b458cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df81e89.css",
+    "static/js/main.c2b458cf.js"
+  ]
+}
