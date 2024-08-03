@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Bouaabdellah/Recipes-React-App.git/static/css/main.c9b4abf4.css",
-    "main.js": "/Bouaabdellah/Recipes-React-App.git/static/js/main.f342df8a.js",
-    "index.html": "/Bouaabdellah/Recipes-React-App.git/index.html",
-    "main.c9b4abf4.css.map": "/Bouaabdellah/Recipes-React-App.git/static/css/main.c9b4abf4.css.map",
-    "main.f342df8a.js.map": "/Bouaabdellah/Recipes-React-App.git/static/js/main.f342df8a.js.map"
+    "main.css": "/Recipes-React-App/static/css/main.c9b4abf4.css",
+    "main.js": "/Recipes-React-App/static/js/main.f342df8a.js",
+    "index.html": "/Recipes-React-App/index.html",
+    "main.c9b4abf4.css.map": "/Recipes-React-App/static/css/main.c9b4abf4.css.map",
+    "main.f342df8a.js.map": "/Recipes-React-App/static/js/main.f342df8a.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b4abf4.css",
