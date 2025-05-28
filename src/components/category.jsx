@@ -21,7 +21,7 @@ export const Category = () => {
                 <div className="p-3 md:p-6 mb-2 rounded-full bg-custom-gradient">
                     <GiNoodles className="text-[1rem] lg:text-xl text-white" />
                 </div>
-                <div className="text-[14px] lg:text-[1rem]">China</div>
+                <div className="text-[14px] lg:text-[1rem]">Chinese</div>
             </NavLink>
             <NavLink className="flex cursor-pointer flex-col items-center" to={"/cuisine/Japanese"}>
                 <div className="p-3 md:p-6 mb-2 rounded-full bg-custom-gradient">

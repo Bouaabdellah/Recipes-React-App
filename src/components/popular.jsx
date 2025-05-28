@@ -11,7 +11,7 @@ export const Popular = () => {
     });
     return (
         <div>
-            <Mold name="popular" number={12} elePage={screen} tagName="" />
+            <Mold name="popular" number={12} elePage={screen} tagName="popular" />
         </div>
     )
 }

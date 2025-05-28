@@ -15,6 +15,7 @@ export const Mold = ({ name, number, elePage, tagName }) => {
         queryFn: () => fetchData(name, number, tagName),
         enabled: shouldFetch,
     });
+    console.log(shouldFetch);
     if (!shouldFetch)
         data = JSON.parse(window.localStorage.getItem(name));
     //window.localStorage.clear();

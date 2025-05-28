@@ -20,7 +20,7 @@ export const Pages = () => {
     });
     return (
         <QueryClientProvider client={client}>
-            <Router>
+            <Router basename="/Recipes-React-App">
                 <Header />
                 <Search />
                 <Category />
